@@ -18,8 +18,8 @@ export default function Home() {
           content="Wiktoria Osóbka-cv" 
         />
         <meta property="og:title" content="CV-WEB" />
-        <meta property="og:url" content="https://cv-web-alpha-woad.vercel.app/" />
-        <meta property="og:image" content="https://cv-web-alpha-woad.vercel.app/1.jpg" />
+        <meta property="og:url" content="https://cv-web1.vercel.app/" />
+        <meta property="og:image" content="https://cv-web1.vercel.app/1.jpg" />
         <meta property="og:description" content="Strona cv o front-end developerze. Informacje kontaktowe." />
       </Head>
     <header className={classes.header}/>
