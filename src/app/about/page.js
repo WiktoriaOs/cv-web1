@@ -5,6 +5,7 @@ import logoImg from "@/app/about/images/1.jpg";
 import Head from 'next/head';
 
 
+
 export default function About()  {
   return (
     <>
@@ -73,6 +74,7 @@ export default function About()  {
         </div>
       </div>
     </header>
+    
     </>
   );
 }
